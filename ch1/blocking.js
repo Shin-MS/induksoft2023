@@ -5,3 +5,6 @@ function longRunningTask() {
 console.log('시작');
 longRunningTask();
 console.log('다음 작업');
+
+
+//
